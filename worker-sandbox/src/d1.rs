@@ -1,4 +1,3 @@
-use crate::{js_sys::{Object, Reflect}, wasm_bindgen};
 use crate::SomeSharedData;
 use crate::{
     js_sys::{Object, Reflect},
